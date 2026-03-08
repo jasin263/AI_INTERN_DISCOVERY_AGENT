@@ -1,0 +1,45 @@
+{
+    "name": "",
+    "education": "4th Year Integrated MSc in Data Science",
+    "skills": [
+        "Python",
+        "Django",
+        "c++",
+        "SQL",
+        "Machine Learning",
+        "Tableau",
+        "React",
+        "ML",
+        "django",
+        "python",
+        "C++",
+        "Deep Learning"
+    ],
+    "target_roles": [
+        "Software"
+    ],
+    "target_companies": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Nvidia",
+        "OpenAI",
+        "Flipkart",
+        "Swiggy",
+        "Razorpay"
+    ],
+    "locations": [
+        "India",
+        "Bangalore",
+        "Hyderabad",
+        "Chennai",
+        "Pune",
+        "Remote"
+    ],
+    "resume_text": "Jasin David Jaya Singh \u2642phone+91-8807639586\nRoll No.: CB.PS.I5DAS22124 /envel\u2322pedavidjasin60@gmail.com\nInt Msc Data Science /githubGitHub Profile\nAmrita Vishwa Vidyapeetham, Coimbatore /linkedinLinkedIn Profile\nEducation\n\u2022Integrated MSC Data Science 2022-27\nAmrita Vishwa Vidyapeetham, Coimbatore CGPA: 8.48\nProjects\n\u2022AI-Powered Quotation Generator Agent 2026\nReact, FastAPI, Groq (Llama-3), NLP, PDF Generation\n\u2013 Developed a full-stack AI agent usingReact, FastAPI, and Groq (Llama-3)to automate the sales quotation process.\n\u2013 Implemented a9-way intent classification systemfor handling user requests including pricing, validation, and email\ndrafting.\n\u2013 Built dynamic pricing logic and automated PDF generation capabilities for enterprise sales workflows.\n\u2022AutoML-X - Automated ML Platform 2026\nPython, FastAPI, Scikit-learn, React.js, Vite, TailwindCSS, SHAP\n\u2013 Designed a full-stack AutoML platform streamlining data ingestion, profiling, cleaning, feature engineering, and\nmodel optimization.\n\u2013 Architected a modularFastAPIbackend with intelligent ModelZoo and hyperparameter tuning usingScikit-learn.\n\u2013 Integrated SHAP and Permutation Importance for explainable AI, with a modernReact 19 + Vitefrontend for\nreal-time analytics.\n\u2022NexScraper AI 2026\nNext.js, Tailwind CSS, Google Gemini API, Cheerio, Recharts\n\u2013 Built an AI-powered web scraping platform transforming unstructured data into structured formats using natural\nlanguage prompts.\n\u2013 Implemented Time Travel Modevia Internet Archive API andGamify Modefor interactive RPG text adventures.\n\u2013 Integrated voice control and automated data visualization usingRecharts for instant analytics from scraped data.\n\u2022Multilingual Speech-to-Text System 2026\nWav2Vec2, Python, Audio Processing, NLP\n\u2013 Developed a multilingual ASR system usingWav2Vec2trained on English, Hindi, Malayalam, and Telugu datasets.\n\u2013 Implemented audio preprocessing and model fine-tuning, evaluating performance usingWER and CER metrics.\n\u2013 Analyzed accent variations and data imbalance effects in low-resource languages to improve model robustness.\n\u2022Self-Driving Car Simulator 2025\nDeep Reinforcement Learning, Python, Stable-Baselines3, PyTorch\n\u2013 Developed a 2D/3D simulator usingDQN agents for autonomous navigation and obstacle avoidance.\n\u2013 Optimized reward functions to train agents in complex behaviors like lane switching and collision-free driving.\n\u2022Brain Tumour Classification 2024\nMachine Learning, Scikit-Learn, OpenCV, SVM, Random Forest\n\u2013 Built a pipeline to classify MRI images into 4 categories:glioma, meningioma, pituitary, and no tumor.\n\u2013 Applied image preprocessing (histogram equalization) and feature extraction to improve classification metrics.\n\u2022Automated Backup & File Transfer System 2025\nWeb Development, Django, SQL, Cron, Linux\n\u2013 Architected a scalableDjango solution for real-time data synchronization with secure authentication.\n\u2013 Implemented automated file discovery and concurrent transfer protocols with cron-based scheduling.\n\u2022Face Mask Detection 2025\nComputer Vision, TensorFlow, Keras, CNN, OpenCV\n\u2013 Implemented aCNN-based modelto detect mask compliance in real-time video streams and static images.\n\u2013 Utilized image augmentation and dropout layers to enhance model generalization and prevent overfitting.\n\u2022Image Caption Generator 2025\nDeep Learning, NLP, Django, Python\n\u2013 Developed a web application using aCNN-RNN architecture to generate descriptive natural language captions.\n\u2013 Integrated pre-trained feature extractors with NLP techniques for accurate and context-aware image descriptions.\nExperience\n\u2022B2E TECHNOLOGIES April - June 2025\nWEB DEVELOPMENT INTERN On Site\n\u2013 Architected a scalable backup and file transfer system usingDjango, featuring secure synchronization across mul-\ntiple servers.\n\u2013 Integrated Cron-based scheduling, concurrent file transfers with retry logic, and real-time monitoring dashboards.\n\u2013 Leveraged Django ORM and Python concurrency to ensure system reliability and enterprise-grade deployment\nscalability.\n\u2022NATIONAL INSTITUTE OF TECHNOLOGY (NIT) June - August 2025\nDATA SCIENCE INTERN Remote/Onsite\n\u2013 Developed aMeme Coin Price Predictionmodel usingLSTM networks to analyze historical volatility and predict\nprice trends.\n\u2013 Performed IMDB Movie Review Sentiment Analysisusing NLP techniques and Deep Learning to classify viewer\nemotions with high accuracy.\n\u2013 Preprocessed large-scale datasets, implementing tokenization, sequence padding, and time-series normalization for\nmodel input.\nTechnical Skills and Interests\nLanguages: Python, C/C++, R Programming, HTML/CSS, SQL.\nLibraries: NumPy, Pandas, Scikit-learn, OpenCV, Tesseract, Matplotlib, Seaborn, Crawl4AI.\nFrameworks: Django, Flask, TensorFlow, Keras, PyTorch, FastAPI, React.js, Next.js.\nAI & Automation: UiPath , Knime ,Web Crawling, Reinforcement Learning, Time-Series Forecasting, LLMs (Llama-3,\nGemini).\nTools & Databases: Tableau, MySQL, MongoDB, Git/GitHub, VS Code, Jupyter, Postman, Kaggle.\nRelevant Coursework: Machine Learning, Deep Learning, Graph Analytics, Data Structures & Algorithms, Operating\nSystems, DBMS.\nAreas of Interest: Data Science, Web Design and Development, AI Automation, Cloud Security, MLOps.\nSoft Skills: Problem Solving, Self-learning, Technical Presentation, Adaptability.\nCertifications\n\u2022Business Analysis and Process ManagementCoursera Completed: 2024\n\u2022Introduction to Data Analysis using Microsoft ExcelCoursera Completed: 2024\n\u2022Using Basic Formulas and Functions in Microsoft ExcelCoursera Completed: 2024\n",
+    "email": "davidjasin7@gmail.com",
+    "telegram_token": "",
+    "telegram_chat_id": "",
+    "scan_frequency": "daily",
+    "last_scan": "2026-02-27T09:44:19.528055"
+}

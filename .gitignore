@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.log
+
+# Environment variables - NEVER commit secrets
+.env
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.vite/
+
+# Data files (optional - remove if you want to track)
+backend/discovered_jobs.json
+backend/drafts/
+
+# IDE
+.vscode/
+.idea/
+*.swp
